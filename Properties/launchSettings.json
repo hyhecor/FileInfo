@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "FileInfo": {
+      "commandName": "Project",
+      "commandLineArgs": "FileInfo.exe "
+    }
+  }
+}
